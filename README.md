@@ -1,6 +1,10 @@
-# Next.js CRUD App
+# Next CRUD App
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with Next.js. It allows users to create, read, update, and delete posts. The app includes a navbar, footer, contact page, and reusable modals for creating and deleting posts.
+
+## Live Link
+
+- Next CRUD App - [Live Link](https://next-crud-app-iota.vercel.app)
 
 ## Features
 
